@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div align = "center"> 
+<h1 align= "center"> Hi there I'm Luis Miguel Cañaveral Restrepo 👋</h1>
+</div>
+<img width="1536" height="1024" alt="921c71c8-569a-4fb9-bc5a-6f7a381e0dcc" src="https://github.com/user-attachments/assets/94f73dc5-c427-4c6f-9d65-c9a8caa623e3" />
 <!--
 **Luiskhot123/Luiskhot123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
